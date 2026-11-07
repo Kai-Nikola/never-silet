@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Never Silent</string>
+    <string name="status_protected">Protection Active</string>
+    <string name="status_paused">Protection Paused</string>
+    <string name="status_description_active">Mobile cannot stay silent or muted. Ringtone auto-restores to 100% maximum volume in 3 seconds.</string>
+    <string name="status_description_paused">Protection is turned off. Silent or mute mode is currently allowed.</string>
+    <string name="button_turn_on">Turn Protection ON</string>
+    <string name="button_turn_off">Turn Protection OFF</string>
+    <string name="permission_required_title">DND Policy Permission Required</string>
+    <string name="permission_required_desc">Android requires Do Not Disturb access to allow Never Silent to restore normal ringtone mode from silent or vibrate.</string>
+    <string name="permission_button">Grant DND Access</string>
+    <string name="notification_permission_title">Notification Access Required</string>
+    <string name="notification_permission_desc">Allow notifications so the guardian service stays active in the background 24/7.</string>
+    <string name="grant_notification_button">Allow Notifications</string>
+    <string name="notification_title">Never Silent Guardian Active</string>
+    <string name="notification_text">Monitoring audio state. Auto-restoring ringtone to 100% within 3s.</string>
+    <string name="action_simulate_mute">Test: Simulate Mute / Silent</string>
+    <string name="target_volume_title">Restoration Volume (100% Max)</string>
+    <string name="sound_feedback_title">Play Audio Chime on Restore</string>
+    <string name="vibrate_feedback_title">Vibrate on Restore</string>
+    <string name="recent_interceptions_title">Interception Activity</string>
+    <string name="no_interceptions_yet">No silent mode attempts yet. Try putting the phone on silent or tap the test button!</string>
+</resources>

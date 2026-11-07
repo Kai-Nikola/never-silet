@@ -1,0 +1,6 @@
+{
+  "name": "Never Silent",
+  "description": "Keeps ringtone mode always on and automatically restores sound within 3 seconds if muted or silenced.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
